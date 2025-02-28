@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Green Tea",
+    "category": "Beverages",
+    "price": 12.99,
+    "bestseller": true,
+    "description": "Premium Japanese green tea with a smooth, delicate flavor"
+  },
+  {
+    "id": 2,
+    "name": "Artisan Sourdough Bread",
+    "category": "Bakery",
+    "price": 6.99,
+    "bestseller": true,
+    "description": "Freshly baked traditional sourdough bread with a crispy crust"
+  },
+  {
+    "id": 3,
+    "name": "Aged Cheddar Cheese",
+    "category": "Dairy",
+    "price": 8.99,
+    "bestseller": false,
+    "description": "24-month aged sharp cheddar cheese from local dairy farms"
+  },
+  {
+    "id": 4,
+    "name": "Organic Avocados",
+    "category": "Produce",
+    "price": 4.99,
+    "bestseller": true,
+    "description": "Fresh, ripe Hass avocados perfect for guacamole or toast"
+  },
+  {
+    "id": 5,
+    "name": "Wild Caught Salmon",
+    "category": "Seafood",
+    "price": 24.99,
+    "bestseller": true,
+    "description": "Fresh Atlantic salmon, sustainably sourced and rich in omega-3"
+  },
+  {
+    "id": 6,
+    "name": "Dark Chocolate Bar",
+    "category": "Confectionery",
+    "price": 3.99,
+    "bestseller": false,
+    "description": "72% cocoa dark chocolate made with organic cocoa beans"
+  },
+  {
+    "id": 7,
+    "name": "Extra Virgin Olive Oil",
+    "category": "Pantry",
+    "price": 15.99,
+    "bestseller": true,
+    "description": "Cold-pressed Italian olive oil with a rich, fruity flavor"
+  },
+  {
+    "id": 8,
+    "name": "Organic Honey",
+    "category": "Pantry",
+    "price": 9.99,
+    "bestseller": false,
+    "description": "Raw, unfiltered honey from local beekeepers"
+  },
+  {
+    "id": 9,
+    "name": "Fresh Basil Pesto",
+    "category": "Condiments",
+    "price": 7.99,
+    "bestseller": false,
+    "description": "Homemade style pesto made with fresh basil and pine nuts"
+  },
+  {
+    "id": 10,
+    "name": "Grass-Fed Ground Beef",
+    "category": "Meat",
+    "price": 8.99,
+    "bestseller": true,
+    "description": "Premium ground beef from grass-fed cattle"
+  },
+  {
+    "id": 11,
+    "name": "Organic Quinoa",
+    "category": "Grains",
+    "price": 6.99,
+    "bestseller": false,
+    "description": "Premium organic white quinoa, high in protein and fiber"
+  },
+  {
+    "id": 12,
+    "name": "Almond Milk",
+    "category": "Beverages",
+    "price": 4.99,
+    "bestseller": true,
+    "description": "Unsweetened almond milk made from organic almonds"
+  },
+  {
+    "id": 13,
+    "name": "Fresh Mozzarella",
+    "category": "Dairy",
+    "price": 5.99,
+    "bestseller": false,
+    "description": "Italian-style fresh mozzarella, perfect for salads and pizza"
+  },
+  {
+    "id": 14,
+    "name": "Organic Blueberries",
+    "category": "Produce",
+    "price": 6.99,
+    "bestseller": true,
+    "description": "Sweet and juicy organic blueberries, locally sourced"
+  },
+  {
+    "id": 15,
+    "name": "Artisan Coffee Beans",
+    "category": "Beverages",
+    "price": 14.99,
+    "bestseller": true,
+    "description": "Single-origin coffee beans, medium roast with notes of chocolate"
+  },
+  {
+    "id": 16,
+    "name": "Greek Yogurt",
+    "category": "Dairy",
+    "price": 4.99,
+    "bestseller": false,
+    "description": "Creamy plain Greek yogurt, high in protein"
+  },
+  {
+    "id": 17,
+    "name": "Organic Pasta",
+    "category": "Pantry",
+    "price": 3.99,
+    "bestseller": false,
+    "description": "Bronze-cut organic spaghetti made with durum wheat"
+  },
+  {
+    "id": 18,
+    "name": "Fresh Baked Croissants",
+    "category": "Bakery",
+    "price": 2.99,
+    "bestseller": true,
+    "description": "Buttery, flaky croissants baked fresh daily"
+  },
+  {
+    "id": 19,
+    "name": "Organic Baby Spinach",
+    "category": "Produce",
+    "price": 3.99,
+    "bestseller": false,
+    "description": "Fresh, tender organic baby spinach leaves"
+  },
+  {
+    "id": 20,
+    "name": "Smoked Salmon",
+    "category": "Seafood",
+    "price": 16.99,
+    "bestseller": true,
+    "description": "Norwegian smoked salmon with a delicate smoky flavor"
+  }
+]
